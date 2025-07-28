@@ -49,10 +49,7 @@ Set up proactive grid outage alerts and improve real-time monitoring.
 
 🚀 Usage
 ### 1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/powerbi-generator-fuel-analysis.git
+
 ### 2. Prepare Data
 Place your raw data files in the /data directory.
 
